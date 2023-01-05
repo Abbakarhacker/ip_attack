@@ -3,28 +3,30 @@ IP or Domain Attack Tool
  
 # installation
 
-🇳🇬pkg update   🇳🇬
+😁pkg update   
 
-🇳🇬pkg upgrade   🇳🇬
+😁pkg upgrade   
 
-🇳🇬pkg install python   🇳🇬
+😁pkg install python   
 
-🇳🇬pkg install python2   🇳🇬
+😁pkg install python2   
 
-🇳🇬pkg install git  🇳🇬
+😁pkg install git  
 
-🇳🇬git clone https://github.com/Abbakarhacker/Ip_attack  🇳🇬
+😁git clone https://github.com/Abbakarhacker/Ip_attack 
 
-🇳🇬 ls  🇳🇬
+😁ls  
 
-🇳🇬cd lp_attack 🇳🇬
+😁cd lp_attack 
 
-🇳🇬chmod +x Ip_attack.py 🇳🇬
+😁ls
 
-🇳🇬bash requirement.sh  🇳🇬
+😁chmod +x Ip_attack.py 
 
-🇳🇬python2 Ip_attack.py 🇳🇬 
+😁bash requirement.sh 
+
+😁python2 Ip_attack.py 
  
-YOUTUBE CHANNEL
+😁YOUTUBE CHANNEL
 
 😁https://youtube.com/@arewacyberwarriors😁
